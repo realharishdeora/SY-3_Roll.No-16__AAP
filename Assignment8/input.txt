@@ -1,0 +1,4 @@
+Python is easy to learn.
+File handling is important.
+This is the third line.
+This is the fourth line.

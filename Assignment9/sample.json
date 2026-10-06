@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Rahul",
+        "age": "20",
+        "course": "CSE",
+        "city": "Pune"
+    },
+    {
+        "id": "2",
+        "name": "Priya",
+        "age": "19",
+        "course": "IT",
+        "city": "Mumbai"
+    },
+    {
+        "id": "3",
+        "name": "Amit",
+        "age": "21",
+        "course": "ENTC",
+        "city": "Nashik"
+    },
+    {
+        "id": "4",
+        "name": "Neha",
+        "age": "20",
+        "course": "CSE",
+        "city": "Delhi"
+    },
+    {
+        "id": "5",
+        "name": "Arjun",
+        "age": "22",
+        "course": "AI",
+        "city": "Bangalore"
+    },
+    {
+        "id": "6",
+        "name": "Sneha",
+        "age": "19",
+        "course": "CSE",
+        "city": "Hyderabad"
+    }
+]
